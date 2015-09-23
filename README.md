@@ -8,6 +8,10 @@ Included are:
 * ``PhoneNumberField``, a model field
 * ``PhoneNumberField``, a form field
 
+## Installation
+
+    pip install git+https://github.com/utribo/backend-phonenumber-field.git
+
 ## Basic usage
 
 Use it like any regular model field
